@@ -41,11 +41,16 @@ h1 {
 }
 
 nav {
-    margin-left: 50px;
-    background: linear-gradient(red, black );
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   background-color: #c61111;
+   border-radius: 35px ;
+   height: 120px;   
+   background-image: url("./img/masterball_line_art_by_falco4077_d75aijs-fullview-removebg-preview.png");
+   background-size: 35px;
+
+   
   }
   nav img {
     position: left;
